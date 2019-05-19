@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  PodFramework: a4d801e10be019bfe482a8cadbaa00f1e95cea00
+  PodFramework: 2cd2e311ee3a5a415057cf0bf4e323a531a8504c
 
 PODFILE CHECKSUM: bfd2dce45885b1b8b899b20f969a8602b78795d6
 
